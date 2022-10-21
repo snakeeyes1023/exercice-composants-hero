@@ -1,0 +1,15 @@
+:host {
+  background-color: pink;
+  display: block;
+  padding: 2rem;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-container div {
+  width: 100%;
+  margin: 0.5rem;
+}
+
